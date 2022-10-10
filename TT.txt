@@ -2,6 +2,8 @@
 <head>
 </head>
 <body>
+<center>
 This is Droisys
+</center>
 </body>
 </html>
